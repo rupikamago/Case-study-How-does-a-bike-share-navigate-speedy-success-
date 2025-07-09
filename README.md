@@ -80,4 +80,27 @@ The data was downloaded, cleaned, and merged for further analysis. This includes
 - Converting datetime formats
 - Creating new variables like day of week, hour, ride length
 
+- ##  Analyze 
+
+-Explored trip duration, ride type, time-based trends, and station usage to compare casual and member riders.
+- Used SQL queries to summarize and extract key insights from the cleaned master dataset.
+- Identified clear differences in riding patterns that helped define user behaviors.
+
+
+---
+
+## Visualize And Share
+
+- Built Tableau dashboards to visualize ride frequency, bike preferences, and usage trends.
+- Highlighted monthly, weekly, and station-based patterns to support key insights.
+- Made findings easier to understand and interpret for stakeholders.
+
+---
+
+## Act
+
+- Provided recommendations to convert casual riders into members using seasonal and behavioral trends.
+- Suggested targeted promotions, referral programs, and station-based campaigns.
+- Noted missing station data as a quality issue to address in future data collection.
+
 
