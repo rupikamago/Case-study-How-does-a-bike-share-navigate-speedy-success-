@@ -72,17 +72,19 @@ Cyclistic’s finance team has concluded that **annual members are more profitab
 
 ---
 
-## Next Step: Data Processing
+## Data Processing
 
-The data was downloaded, cleaned, and merged for further analysis. This includes:
+- The data was downloaded, cleaned, and merged for further analysis. This includes:
 - Removing duplicate records
 - Filtering invalid trip durations (e.g., <1 minute)
 - Converting datetime formats
 - Creating new variables like day of week, hour, ride length
 
+  ---
+
 - ##  Analyze 
 
--Explored trip duration, ride type, time-based trends, and station usage to compare casual and member riders.
+- Explored trip duration, ride type, time-based trends, and station usage to compare casual and member riders.
 - Used SQL queries to summarize and extract key insights from the cleaned master dataset.
 - Identified clear differences in riding patterns that helped define user behaviors.
 
